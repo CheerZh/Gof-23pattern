@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>creational.factory.factoryMethod.AudiFactory</OriginalElement>
+  <nodes>
+    <node x="0.0" y="155.0">creational.factory.factoryMethod.Client</node>
+    <node x="68.5" y="0.0">creational.factory.factoryMethod.CarFactory</node>
+    <node x="132.0" y="80.0">creational.factory.factoryMethod.AudiFactory</node>
+    <node x="0.0" y="80.0">creational.factory.factoryMethod.BydFactory</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="creational.factory.factoryMethod.AudiFactory" target="creational.factory.factoryMethod.CarFactory">
+      <point x="0.0" y="-15.0" />
+      <point x="191.0" y="55.0" />
+      <point x="151.0" y="55.0" />
+      <point x="27.5" y="15.0" />
+    </edge>
+    <edge source="creational.factory.factoryMethod.BydFactory" target="creational.factory.factoryMethod.CarFactory">
+      <point x="0.0" y="-15.0" />
+      <point x="56.0" y="55.0" />
+      <point x="96.0" y="55.0" />
+      <point x="-27.5" y="15.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="125.0" y="92.5" />
+  <SelectedNodes>
+    <node>creational.factory.factoryMethod.AudiFactory</node>
+  </SelectedNodes>
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

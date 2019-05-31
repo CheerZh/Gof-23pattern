@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>creational.factory.simpleFactory.Audi</OriginalElement>
+  <nodes>
+    <node x="50.0" y="0.0">creational.factory.simpleFactory.Car</node>
+    <node x="0.0" y="155.0">creational.factory.simpleFactory.CarFactory</node>
+    <node x="95.0" y="80.0">creational.factory.simpleFactory.Byd</node>
+    <node x="155.0" y="155.0">creational.factory.simpleFactory.Client2</node>
+    <node x="0.0" y="230.0">creational.factory.simpleFactory.Client1</node>
+    <node x="0.0" y="80.0">creational.factory.simpleFactory.Audi</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="creational.factory.simpleFactory.Byd" target="creational.factory.simpleFactory.Car">
+      <point x="0.0" y="-15.0" />
+      <point x="129.5" y="55.0" />
+      <point x="100.25" y="55.0" />
+      <point x="16.75" y="15.0" />
+    </edge>
+    <edge source="creational.factory.simpleFactory.Audi" target="creational.factory.simpleFactory.Car">
+      <point x="0.0" y="-15.0" />
+      <point x="37.5" y="55.0" />
+      <point x="66.75" y="55.0" />
+      <point x="-16.75" y="15.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="121.5" y="130.0" />
+  <SelectedNodes>
+    <node>creational.factory.simpleFactory.Audi</node>
+  </SelectedNodes>
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>structuralType.adapter.Adaptee</OriginalElement>
+  <nodes>
+    <node x="0.0" y="80.0">structuralType.adapter.Adapter2</node>
+    <node x="146.0" y="0.0">structuralType.adapter.Adaptee</node>
+    <node x="0.0" y="155.0">structuralType.adapter.Client</node>
+    <node x="30.0" y="0.0">structuralType.adapter.Target</node>
+    <node x="123.0" y="80.0">structuralType.adapter.Adapter</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="structuralType.adapter.Adapter" target="structuralType.adapter.Adaptee">
+      <point x="24.0" y="-15.0" />
+      <point x="0.0" y="15.0" />
+    </edge>
+    <edge source="structuralType.adapter.Adapter2" target="structuralType.adapter.Target">
+      <point x="0.0" y="-15.0" />
+      <point x="-21.5" y="15.0" />
+    </edge>
+    <edge source="structuralType.adapter.Adapter" target="structuralType.adapter.Target">
+      <point x="-24.0" y="-15.0" />
+      <point x="147.0" y="55.0" />
+      <point x="94.5" y="55.0" />
+      <point x="21.5" y="15.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="256.0" y="92.5" />
+  <SelectedNodes />
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

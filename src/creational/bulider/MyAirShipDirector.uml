@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>creational.bulider.MyAirShipDirector</OriginalElement>
+  <nodes>
+    <node x="0.0" y="310.0">creational.bulider.EscapeTower</node>
+    <node x="169.0" y="310.0">creational.bulider.AirShip</node>
+    <node x="194.0" y="155.0">creational.bulider.OrbitalModule</node>
+    <node x="0.0" y="235.0">creational.bulider.MyAirShipBuilder</node>
+    <node x="9.0" y="155.0">creational.bulider.AirShipBuilder</node>
+    <node x="132.0" y="385.0">creational.bulider.Client</node>
+    <node x="9.0" y="0.0">creational.bulider.AirShipDirector</node>
+    <node x="0.0" y="80.0">creational.bulider.MyAirShipDirector</node>
+    <node x="0.0" y="385.0">creational.bulider.Engine</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="creational.bulider.MyAirShipDirector" target="creational.bulider.AirShipDirector">
+      <point x="0.0" y="-15.0" />
+      <point x="0.0" y="15.0" />
+    </edge>
+    <edge source="creational.bulider.MyAirShipBuilder" target="creational.bulider.AirShipBuilder">
+      <point x="0.0" y="-15.0" />
+      <point x="0.0" y="15.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.7080459770114943" x="163.5" y="197.5" />
+  <SelectedNodes>
+    <node>creational.bulider.MyAirShipDirector</node>
+  </SelectedNodes>
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
