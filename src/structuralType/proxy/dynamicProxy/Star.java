@@ -1,4 +1,4 @@
-package structuralType.proxy.staticProxy;
+package structuralType.proxy.dynamicProxy;
 
 /**
  * @author ZHGQ
