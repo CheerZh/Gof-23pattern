@@ -1,9 +1,9 @@
-package structuralType.proxy.staticProxy;
+package structural.proxy.staticProxy;
 
 /**
  * @author ZHGQ
  * @project Gof-23pattern
- * @Package structuralType.proxy.staticProxy
+ * @Package structural.proxy.staticProxy
  * @date 2019/6/3-22:00
  * @Copyright: (c) 2019 USTC. All rights reserved.
  * @Description:

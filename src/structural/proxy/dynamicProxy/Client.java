@@ -1,11 +1,11 @@
-package structuralType.proxy.dynamicProxy;
+package structural.proxy.dynamicProxy;
 
 import java.lang.reflect.Proxy;
 
 /**
  * @author ZHGQ
  * @project Gof-23pattern
- * @Package structuralType.proxy.dynamicProxy
+ * @Package structural.proxy.dynamicProxy
  * @date 2019/6/3-22:18
  * @Copyright: (c) 2019 USTC. All rights reserved.
  * @Description:

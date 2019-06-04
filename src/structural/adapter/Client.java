@@ -1,10 +1,10 @@
-package structuralType.adapter;
+package structural.adapter;
 
 
 /**
  * @author ZHGQ
  * @project Gof-23pattern
- * @Package structuralType.adapter
+ * @Package structural.adapter
  * @date 2019/5/31-16:28
  * @Copyright: (c) 2019 USTC. All rights reserved.
  * @Description:
