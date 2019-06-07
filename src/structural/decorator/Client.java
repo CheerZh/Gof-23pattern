@@ -30,8 +30,8 @@ public class Client {
         water_flyCar.move();
 
         System.out.println("增加两个新功能，飞行，水里游");
-        WaterCar watercar2 = new WaterCar(new FlyCar(car));
-        watercar2.move();
+        WaterCar waterCar2 = new WaterCar(new FlyCar(car));
+        waterCar2.move();
 
     }
 }
